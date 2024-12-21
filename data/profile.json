@@ -1,0 +1,27 @@
+{
+  "name": "John Doe",
+  "bio": "Web Developer & Designer",
+  "avatar": "/placeholder.svg?height=100&width=100",
+  "links": [
+    {
+      "id": "1",
+      "title": "My Portfolio",
+      "url": "https://example.com/portfolio"
+    },
+    {
+      "id": "2",
+      "title": "My Blog",
+      "url": "https://example.com/blog"
+    },
+    {
+      "id": "3",
+      "title": "Follow me on Twitter",
+      "url": "https://twitter.com/johndoe"
+    },
+    {
+      "title": "ExamPro",
+      "url": "https://www.exampro.co",
+      "id": "1734799961397"
+    }
+  ]
+}
